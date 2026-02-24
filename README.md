@@ -43,3 +43,16 @@ Screenshot
 
 
 <img width="789" height="558" alt="image" src="https://github.com/user-attachments/assets/ba305f20-6e1d-486e-8b3e-7524ee2a9b48" />
+
+
+To-Do List Enhancements
+
+    Add due dates with calendar picker
+
+    Add priority levels (High/Medium/Low)
+
+    Add categories/tags
+
+    Drag-and-drop reordering
+
+    Dark mode toggle
